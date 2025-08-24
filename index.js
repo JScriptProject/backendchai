@@ -8,6 +8,6 @@ app.get('/', (req, res)=>{
 })
 
 app.listen(port, ()=>{
-    console.log(`Server started on port number ${port}`);
+    console.log(`Server at started on port number ${port}`);
     
 })
